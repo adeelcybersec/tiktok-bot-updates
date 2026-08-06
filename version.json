@@ -1,0 +1,7 @@
+{
+  "version": "4.1.2",
+  "buildNumber": 8,
+  "apkUrl": "https://github.com/adeelcybersec/tiktok-bot-updates/releases/download/v4.1.2/app-release.apk",
+  "releaseNotes": "• Fixed Unfollow grey button detection\n• Upgraded engine to pure density scaling\n• Added MIUI Freeform bypass",
+  "forceUpdate": false
+}
