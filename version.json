@@ -1,7 +1,7 @@
 {
   "version": "5.0.1",
   "buildNumber": 8,
-  "apkUrl": "https://github.com/adeelcybersec/tiktok-bot-updates/releases/download/V.5.0.1/app-release.apk",
-  "releaseNotes": "• Add new features: \n• Optimze speed.\n• Add Tiktok support.\n• Add Unfollow (friends, following and both) and accept request.",
+  "apkUrl": "https://github.com/adeelcybersec/tiktok-bot-updates/releases/download/v5.1.1/app-release.apk",
+  "releaseNotes": "• Add new features: \n• Fix license forgot issue.\n• Add encryption.\n• Add database to store data",
   "forceUpdate": false
 }
